@@ -1,2 +1,2 @@
 import SRXP
-SRXP.Srx()
+SRXP.india()
